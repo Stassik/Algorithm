@@ -17,7 +17,7 @@ public class TreeMain {
 
         System.out.println("У данного дерева " + tree.getChildrenCount() + " детей.");
         System.out.println("У данного дерева максимальный элемент:" + tree.findLast());
-        System.out.println(tree.isBalanced());
+
 
     }
 }
